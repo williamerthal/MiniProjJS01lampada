@@ -1,2 +1,3 @@
-Lâmpada JS
-Projeto em javascript para iniciar a interação com elementos HTML.
+# Lâmpada JS
+
+Projeto em javascript para iniciar a interação com elementos HTML.TML.
